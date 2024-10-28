@@ -1,6 +1,7 @@
 #ifndef AMAZE_H
 #define AMAZE_H
 
+#include <array>
 #include "opengl/opengl.h"
 #include "matrix.h"
 
